@@ -1,0 +1,7 @@
+---
+layout: post 
+title:  "foo" 
+date:   2017-11-13T19:50:19.342Z 
+---
+
+foobar
