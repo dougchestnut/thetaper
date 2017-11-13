@@ -28,7 +28,7 @@ markdown: kramdown
 theme: minima
 
 github:
-  repo: thetaper/dougchestnut.github.io
+  repo: dougchestnut/thetaper
   branch: master
 
 prose:
