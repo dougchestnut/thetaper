@@ -1,6 +1,7 @@
 ---
 layout: post 
 title:  "foo" 
+published: true
 date:   2017-11-13T19:50:19.342Z 
 ---
 
