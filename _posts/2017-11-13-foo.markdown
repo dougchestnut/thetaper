@@ -5,4 +5,4 @@ published: true
 date:   2017-11-13T19:50:19.342Z 
 ---
 
-foobar
+Here’s my text[^And here’s the text of my footnote.]
