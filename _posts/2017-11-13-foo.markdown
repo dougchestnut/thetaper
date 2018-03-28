@@ -5,4 +5,7 @@ published: true
 date:   2017-11-13T19:50:19.342Z 
 ---
 
-This is some text.[^1]. Other text.[^footnote].
+This is some text.[^1]. Other text.
+
+
+[^1]: Some *crazy* footnote definition.
